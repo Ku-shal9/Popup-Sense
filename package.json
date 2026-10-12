@@ -1,0 +1,17 @@
+{
+  "name": "popup-sense",
+  "version": "0.1.0",
+  "description": "AI-powered, context-aware browser popup and overlay interceptor",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@total-typescript/shoehorn": "^0.1.2",
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}
